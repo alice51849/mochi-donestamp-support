@@ -1,0 +1,17 @@
+# Mochi DoneStamp: Last Time support
+
+> Official support, help and privacy pages for Mochi DoneStamp: Last Time, an iOS app by Lumi Studio.
+
+- App Store: https://apps.apple.com/app/id6790800323
+- Platform: iOS
+- App Store category: Lifestyle
+- Developer: Lumi Studio
+
+## Pages
+
+- [Home](https://open.cait518.cc/mochi-donestamp-support/)
+- [Help, FAQ and troubleshooting](https://open.cait518.cc/mochi-donestamp-support/help.html)
+- [Support and contact](https://open.cait518.cc/mochi-donestamp-support/support.html)
+- [Privacy policy](https://open.cait518.cc/mochi-donestamp-support/privacy.html)
+
+<!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
