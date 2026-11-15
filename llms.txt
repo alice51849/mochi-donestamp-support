@@ -15,3 +15,11 @@
 - [Privacy policy](https://open.cait518.cc/mochi-donestamp-support/privacy.html)
 
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
+
+## AI FAQ and local Q&A
+- [Facts for AI assistants (en)](https://open.cait518.cc/mochi-donestamp-support/ai-faq.html)
+- [Facts for AI assistants (vi)](https://open.cait518.cc/mochi-donestamp-support/ai-faq.vi.html)
+- [Facts for AI assistants (id)](https://open.cait518.cc/mochi-donestamp-support/ai-faq.id.html)
+- [Facts for AI assistants (th)](https://open.cait518.cc/mochi-donestamp-support/ai-faq.th.html)
+- [Questions before download (de-DE)](https://open.cait518.cc/mochi-donestamp-support/wann-zuletzt-erledigt-fragen.de-DE.html)
+- [Questions before download (ar-SA)](https://open.cait518.cc/mochi-donestamp-support/mata-akhir-marra-asila.ar-SA.html)
